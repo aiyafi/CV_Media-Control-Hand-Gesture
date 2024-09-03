@@ -16,6 +16,8 @@
 * pycaw
 * comtypes
 
+# Installation
+
 To set up, begin by executing the command `pip install -r requirements.txt` to install the necessary dependencies.
 
 ```bash
@@ -23,3 +25,6 @@ pip install -r requirements.txt
 ```
 
 and then run the program using the command `python main.py`.
+
+# Research Paper
+For a detailed explanation of our project and methodologies, please see our research paper available on [Overleaf](https://www.overleaf.com/read/tqfcwckfyfkb).
